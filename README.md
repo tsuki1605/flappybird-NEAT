@@ -4,7 +4,7 @@ Implementing the NEAT python module to let AI play Flappy Bird
 ## Setup
 Clone the Repository
 ```bash
-git clone https://https://github.com/tsuki1605/flappybird-NEAT
+git clone https://github.com/tsuki1605/flappybird-NEAT
 ```
 
 Installations
